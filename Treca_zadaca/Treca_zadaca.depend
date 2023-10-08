@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636909821 source:d:\ismail\iii razred\programiranje\treca_zadaca\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+	<ctime>
+
