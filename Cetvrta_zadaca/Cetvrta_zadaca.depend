@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639436038 source:d:\ismail\iii razred\programiranje\cetvrta_zadaca\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
